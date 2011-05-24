@@ -1,0 +1,5 @@
+_ReSharper.*
+*.[Rr]e[Ss]harper.user
+obj/
+bin/
+**.suo
